@@ -25,3 +25,18 @@ Swap rows in a matrix.
   <li>static memory allocation; <br><b>See file main4-1.cpp</b></li>
   <li>dynamic memory allocation; <br><b>See file main4-2.cpp</b></li>
 </ul>
+
+# Task 5
+
+Undirected graph, defined by adjacency matrix, determine if the graph is Euler.
+
+<i>A graph is called Euler if it contains an Euler cycle. A graph is called semi-Eulerian if it contains an Eulerian path but no Eulerian cycle.</i>
+
+![image](https://user-images.githubusercontent.com/76211121/187211259-cd6df12c-2cff-4e6a-a6c7-f653f648c085.png)
+
+![image](https://user-images.githubusercontent.com/76211121/187211280-64a3cd15-5796-4dc3-b171-31e709115b6e.png)
+
+![image](https://user-images.githubusercontent.com/76211121/187211312-9df828d8-dc45-4d3d-9875-8163fc74cf74.png)
+
+![image](https://user-images.githubusercontent.com/76211121/187211339-361992fd-cf9f-42ab-adec-fb8c5b468b15.png)
+
