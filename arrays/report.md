@@ -17,3 +17,11 @@ Print the pairs “element of the main diagonal, element of the secondary diagon
 ![image](https://user-images.githubusercontent.com/76211121/187206828-c82392c6-19f0-4616-9308-b2f98fb1e2b2.png)
 
 <br><b>See file main3.cpp</b>
+
+# Task 4
+
+Swap rows in a matrix.
+<ul>
+  <li>static memory allocation; <br><b>See file main4-1.cpp</b></li>
+  <li>dynamic memory allocation; <br><b>See file main4-2.cpp</b></li>
+</ul>
